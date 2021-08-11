@@ -5,3 +5,7 @@ Random Description blabla I'm doing this project to learn the basics of how to u
 ## Creative Subheader
 
 More creative random text
+
+## Local Development
+
+1. Open test.py in your text editor
